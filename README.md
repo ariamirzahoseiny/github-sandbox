@@ -39,12 +39,12 @@ The workflow will run automatically and the downloaded files will appear in the 
 
 ## 📝 Commands.  
 
-### Download files individually
+### Download files individually.      
 
 Downloads each file and saves it by its original filename.
 
 ```
-download: URL1 URL2 URL3
+download: URL1 URL2 URL3.   
 ```
 
 **Examples:**
