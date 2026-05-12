@@ -8,11 +8,13 @@ A GitHub Actions workflow that lets you download files into your repository just
 
 ## ⚙️ Setup.   
 
-0. Fork this repo
+0. Fork this repo.   
 1. Go to your repository on GitHub.        
 2. Click **Settings** → **Actions** → **General**
 3. Scroll down to **Workflow permissions**
-4. Select **Read and write permissions** and click **Save**. 
+
+
+
 
 That's it — no tokens or secrets needed.      
 
@@ -28,7 +30,7 @@ You trigger downloads by editing any file directly on GitHub and using a special
 2. Click the **pencil icon** (✏️) at the top right to edit it
 3. Make any small change (add a space, a blank line, anything)
 4. Scroll down to the **Commit changes** section
-5. Select **Commit directly to the `main` branch**
+5. Select **Commit directly to the `main` branch**.   
 6. In the commit message box, type one of the commands below.   
 7. Click **Commit changes**.
     
